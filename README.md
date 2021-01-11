@@ -9,9 +9,9 @@ https://github.com/aoerecinfo/aoe2dataset
 
 Age of Empires II: Definitive Edition © Microsoft Corporation.
 <br />
-AOE Rec Info was created under Microsoft's{" "}
+AOE Rec Info was created under Microsoft's
 <a href="https://www.xbox.com/en-us/developers/rules">
   Game Content Usage Rules
-</a>{" "}
+</a>
 using assets from Age of Empires II: Definitive Edition, and it is not endorsed by or
 affiliated with Microsoft.
