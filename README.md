@@ -1,8 +1,17 @@
-# aoerecinfo
-This site provides an interface for .recinfo files found here:
+# AoeRecInfo
+This web app provides an interface for .recinfo files found here:
 https://github.com/aoerecinfo/aoe2dataset
 
+## Is there a hosted version?
+https://aoerecinfo.github.io
 
+## What is .RecInfo?
+.recinfo files aren't normal replay files created by the game itself but rather data files created from analzed matches in Age Of Empires II: Defintive Edition.
+
+You can start viewing the match data by dragging and dropping .recinfo files into the web app.
+Far from everything collected is displayed in the current version of this site.
+
+## Images
 ![PlayerStats](imgs/aoestats.png?raw=true "Player Stats")
 
 ![AoeMap](imgs/aoemap.png?raw=true "Map")
